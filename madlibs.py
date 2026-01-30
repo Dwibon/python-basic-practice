@@ -1,0 +1,7 @@
+adjective = input("Enter an adjective: ")
+superpower = input("Enter a superpower ")
+noun = input("Enter a noun: ")
+verb_present = input("Enter a present verb: ")
+place = input("Enter a place ")
+adjective_place = input("Enter an adjective for the place: ")
+plural_noun = input("Enter a plural noun: ")
